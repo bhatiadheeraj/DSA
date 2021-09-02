@@ -7,7 +7,7 @@ public class Main {
         st.pop();
         st.push(70);
         st.push(90);
-        st.top();
+        System.out.println(""+st.top());
         st.print();
     }
 }
